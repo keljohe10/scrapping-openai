@@ -42,7 +42,7 @@ web_summarizer/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/web_summarizer.git
+git clone https://github.com/keljohe10/web_summarizer.git
 cd web_summarizer
 ```
 
@@ -100,12 +100,6 @@ model="gpt-4o-mini"
 ```
 
 Puedes cambiarlo por `"gpt-3.5-turbo"` o el modelo que prefieras, siempre y cuando esté disponible en tu cuenta de OpenAI.
-
----
-
-## 👤 Créditos
-
-Proyecto desarrollado por [Tu Nombre](https://github.com/tu-usuario), con apoyo de OpenAI y herramientas de scraping básicas.
 
 ---
 
